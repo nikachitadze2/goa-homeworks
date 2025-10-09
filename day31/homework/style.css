@@ -1,0 +1,6 @@
+        h1.name {
+            text-decoration: underline;
+        }
+        h1.surname {
+            text-decoration: overline;
+        }
